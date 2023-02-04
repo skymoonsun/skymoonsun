@@ -8,6 +8,3 @@
   <br>
   <br>
 </p>
-
-------------
-<p align="center">⭐️ From <a href="https://github.com/skymoonsun">@skymoonsun</a></p>
