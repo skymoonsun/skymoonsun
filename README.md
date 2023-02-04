@@ -9,6 +9,8 @@
   <br>
 </p>
 
+![skymoonsun's github stats](https://github-readme-stats.vercel.app/api?username=skymoonsun&theme=gruvbox&show_icons=true)
+
 <p align="center">
   <samp><b>Let's connect and chat!</b></samp>
 
