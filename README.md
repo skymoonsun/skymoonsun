@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <h1>Hello there, I'm Gökay 👋</h1>
-  <samp><b>Full Stack Developer | AI & Backend Architect from Ankara.</b></samp>
+  <samp><b>Full Stack Developer | AI Systems Developer from Ankara.</b></samp>
   <br><br>
 
   <samp>
