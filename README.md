@@ -1,28 +1,27 @@
 <div align="center">
   <br>
-  <h1>Hello there, I'm Gökay 👋</h1>
-  <samp><b>Full Stack Developer | AI Systems Developer from Ankara.</b></samp>
+  <h1>Hello there, I'm Gökay</h1>
+  <samp><b>Full Stack Developer | AI Systems Developer from Ankara</b></samp>
   <br><br>
 
   <samp>
-    I specialize in building scalable microservices and integrating local AI solutions.<br>
-    Bridging robust backend architecture with practical LLM implementations.
+    Building Agent-Powered Platforms.<br>
+    Belief: AI should be infrastructure, not a feature.
   </samp>
   <br><br>
 </div>
 
 ---
 
-### 🔭 What I'm Doing
+### What I'm Doing
 
-- 🏢 Architecting modular **LLM orchestration backends** and fullstack microservices for nationwide education platforms.
-- 🧠 Building and optimizing **RAG pipelines** using local models on GPU servers without relying on external APIs.
-- 🌱 Actively exploring and experimenting with the **Model Context Protocol (MCP)** and generative AI agents.
-- ⚡ **Stack Focus:** PHP (Symfony), Python (FastAPI), React, and Docker.
+- **Currently:** Architecting LLM backends, RAG pipelines, and local inference (Ollama/vLLM) for high-scale platforms. Still hands-on with microservices, API design, and shipping code that handles millions of requests.
+- **Side Quest:** MCP explorer, building autonomous agent systems, and running experiments on a personal VPS. Infrastructure enthusiast.
+- **The Journey:** Evolving from traditional full stack development to agent orchestration.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -32,10 +31,11 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <br>
   <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=Ollama&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM-02569B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-5C2D91?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=OpenSearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
